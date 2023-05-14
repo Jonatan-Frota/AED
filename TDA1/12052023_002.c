@@ -40,6 +40,7 @@ void liberar(NUMERO *numero1, NUMERO *numero2){
 free(numero1);
 free(numero2);
 }
+
 int main()
 {
     NUMERO *numero1;
